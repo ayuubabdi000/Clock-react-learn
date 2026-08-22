@@ -1,1 +1,1 @@
-Practicing react
+Practicing react clock project
